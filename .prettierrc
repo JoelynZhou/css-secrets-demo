@@ -1,0 +1,6 @@
+{
+    "quoteProps": "consistent",
+    "semi": true,
+    "tabWidth": 4,
+    "useTabs": true
+}
