@@ -4,6 +4,7 @@ import Home from "./views/Home";
 import BoxModel from "./views/CSSDemo/BoxModel";
 import FlexBox from "./views/CSSDemo/FlexBox";
 import CSSDemo from "./views/CSSDemo/Index";
+import "antd/dist/antd.min.css";
 
 function App() {
 	return (
