@@ -1,5 +1,3 @@
 export default function FlexBox() {
-    return <div>
-        flexbox
-    </div>
+	return <div>flexbox</div>;
 }
