@@ -1,4 +1,5 @@
 import { RouteProps } from "react-router-dom";
+import AMap from "../views/AMap";
 import BoxModel from "../views/CSSDemo/BoxModel";
 import FlexBox from "../views/CSSDemo/FlexBox";
 import Home from "../views/Home";
@@ -40,5 +41,10 @@ export const routes: RProps[] = [
 				component: null,
 			},
 		],
+	},
+	{
+		menuName: "地图",
+		path: "/amap",
+		component: AMap,
 	},
 ];
